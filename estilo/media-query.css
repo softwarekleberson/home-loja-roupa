@@ -1,0 +1,285 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;700&display=swap');
+
+
+@media (min-width: 540px) and (max-width: 720px) {
+
+    * {
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+        font-family: 'Bodoni Moda', serif;
+    }
+
+    body,
+    html {
+        background-color: #18181B;
+        height: 100vh;
+        width: 100vw;
+    }
+
+    main {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        margin-top: 5%;
+    }
+
+    h1 {
+        font-size: 2.6em;
+        margin: auto;
+        color: white;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+
+    section {
+        margin-left: 2.5%;
+        margin-right: 2.5%;
+        width: 243px;
+        height: 520px;
+        background-color: white;
+        border-radius: 20px;
+    }
+
+    .imagem>img {
+        border-radius: 20px;
+        width: 100%;
+    }
+
+    i {
+        transform: translateY(-1310px);
+        padding: 15px;
+    }
+
+    .campo {
+        margin-top: -20px;
+    }
+
+    .campo>p {
+        margin-left: 5%;
+        margin-top: 3%;
+        margin-bottom: 4%;
+        font-size: 1.6em;
+    }
+
+    .estilo-paragrafo {
+        color: #A1A1AF;
+        margin-bottom: 3%;
+    }
+
+}
+
+
+@media (min-width: 820px) and (max-width: 1368px) {
+    /*Outros Ipdads*/
+
+    * {
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+        font-family: 'Bodoni Moda', serif;
+    }
+
+    body,
+    html {
+        background-color: #18181B;
+        height: 100vh;
+        width: 100vw;
+    }
+
+    main {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        margin-top: 5%;
+    }
+
+    h1 {
+        font-size: 3.6em;
+        margin: auto;
+        color: white;
+        margin-top: 5%;
+        margin-bottom: 5%;
+
+    }
+
+    section {
+        margin-top: 20px;
+        margin-left: 1.5%;
+        margin-right: 2.5%;
+        width: 470px;
+        height: 675px;
+        background-color: white;
+        border-radius: 20px;
+    }
+
+    .imagem>img {
+        border-radius: 20px;
+        width: 100%;
+    }
+
+    i {
+        transform: translateY(-420px);
+        padding: 15px;
+    }
+
+    .campo {
+        margin-top: -20px;
+    }
+
+    .campo>p {
+        margin-left: 5%;
+        margin-top: 3%;
+        margin-bottom: 4%;
+        font-size: 1.6em;
+    }
+
+    .estilo-paragrafo {
+        color: #A1A1AF;
+        margin-bottom: 3%;
+    }
+
+}
+
+
+@media (min-width: 600px) and (max-width: 1180px) {
+
+    /*Tablet Ipad Mini*/
+    * {
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+        font-family: 'Bodoni Moda', serif;
+    }
+
+    body,
+    html {
+        background-color: #18181B;
+        height: 100vh;
+        width: 100vw;
+    }
+
+    main {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        margin-top: 5%;
+    }
+
+    h1 {
+        font-size: 2.6em;
+        margin: auto;
+        color: white;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+
+    section {
+        margin-left: 2.5%;
+        margin-right: 2.5%;
+        width: 345px;
+        height: 575px;
+        background-color: white;
+        border-radius: 20px;
+    }
+
+    .imagem>img {
+        border-radius: 20px;
+        width: 100%;
+    }
+
+    i {
+        transform: translateY(-320px);
+        padding: 10px;
+    }
+
+    .campo {
+        margin-top: -20px;
+    }
+
+    .campo>p {
+        margin-left: 5%;
+        margin-top: 3%;
+        margin-bottom: 4%;
+        font-size: 1.6em;
+    }
+
+    .estilo-paragrafo {
+        color: #A1A1AF;
+        margin-bottom: 3%;
+    }
+
+}
+
+
+@media (min-width: 820px) and (max-width: 1368px) {
+    /*Outros Ipdads*/
+
+    * {
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+        font-family: 'Bodoni Moda', serif;
+    }
+
+    body,
+    html {
+        background-color: #18181B;
+        height: 100vh;
+        width: 100vw;
+    }
+
+    main {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        margin-top: 5%;
+    }
+
+    h1 {
+        font-size: 3.6em;
+        margin: auto;
+        color: white;
+        margin-top: 5%;
+        margin-bottom: 5%;
+
+    }
+
+    section {
+        margin-top: 20px;
+        margin-left: 1.5%;
+        margin-right: 2.5%;
+        width: 470px;
+        height: 675px;
+        background-color: white;
+        border-radius: 20px;
+    }
+
+    .imagem>img {
+        border-radius: 20px;
+        width: 100%;
+    }
+
+    i {
+        transform: translateY(-420px);
+        padding: 15px;
+    }
+
+    .campo {
+        margin-top: -20px;
+    }
+
+    .campo>p {
+        margin-left: 5%;
+        margin-top: 3%;
+        margin-bottom: 4%;
+        font-size: 1.6em;
+    }
+
+    .estilo-paragrafo {
+        color: #A1A1AF;
+        margin-bottom: 3%;
+    }
+
+}
